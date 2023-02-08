@@ -1,2 +1,2 @@
-# alx-system_engineering-devops
-shell basics commands
+#!/bin/bash
+why?
